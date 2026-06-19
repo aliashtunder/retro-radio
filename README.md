@@ -4,7 +4,6 @@
 
 A fully immersive single-page website that looks and feels like a physical 1990s boombox — built with 2026 web technology.
 
-![Retro Radio Time Machine](public/favicon.svg)
 
 ## Concept: 1999 Radio vs 2026 Web Tech
 
